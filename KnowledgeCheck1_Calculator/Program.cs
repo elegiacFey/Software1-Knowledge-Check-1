@@ -26,7 +26,7 @@ namespace KnowledgeCheck1_Calculator
 
                         if (int.TryParse(num1, out int addNumOne) && int.TryParse(num2, out int addNumTwo))
                         {
-                            Console.Write($"{num2} + {num2} = ");
+                            Console.Write($"{num1} + {num2} = ");
                             Console.Write(calculator.Add(addNumOne, addNumTwo));
                         }
                         else
