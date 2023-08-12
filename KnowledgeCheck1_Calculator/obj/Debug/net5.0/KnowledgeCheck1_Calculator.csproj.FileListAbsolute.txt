@@ -1,0 +1,32 @@
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.AssemblyReference.cache
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/maya/Documents/codelouisville/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.AssemblyReference.cache
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/maya/Desktop/Software1-Knowledge-Check-1 copy/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll
